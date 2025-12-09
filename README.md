@@ -17,29 +17,6 @@ Points clés :
 
 ## 2. Structure du projet
 
-Arborescence principale (simplifiée) :
-
-```text
-src/
-  main/
-    java/
-      partie2/
-        simulation/
-          Gare.java            // main
-          Train.java           // thread train
-          Voyageur.java        // thread voyageur
-          EspaceQuai.java      // moniteur voies
-          EspaceVente.java     // moniteur billets
-          EtatTrain.java
-          EtatVoyageur.java
-        manager/
-          SimulationManager.java
-        api/
-          ApiRestServer.java
-          TrainsResource.java
-          VoyageursResource.java
-```
-
 ### 2.1 Rôles des principales classes
 
 | Composant         | Type                      | Rôle principal                                                        |
