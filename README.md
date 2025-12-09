@@ -279,5 +279,3 @@ Exemples :
   - endpoints simples et RESTful (`GET`/`POST`, JSON).
 
 ***
-
-Souhaites-tu qu’on ajoute un mini schéma texte du cycle de vie d’un train ou d’un voyageur dans ce README pour t’aider à l’expliquer à l’oral ?
